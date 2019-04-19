@@ -1,0 +1,13 @@
+current directory: /mnt/c/Users/Francis/linux/ruby_stuff/lhl-w7d5/random_project/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+/home/francis/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20190418-21402-16751lb.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/Francis/linux/ruby_stuff/lhl-w7d5/random_project/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Users/Francis/linux/ruby_stuff/lhl-w7d5/random_project/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /mnt/c/Users/Francis/linux/ruby_stuff/lhl-w7d5/random_project/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
